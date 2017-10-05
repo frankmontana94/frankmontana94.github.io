@@ -1,0 +1,44 @@
+h2{
+  color: darkred;
+  font-size: 50px;
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  
+  
+}
+h1{
+  font-family: fantasy;
+  color: teal;
+  font-size: 75px;
+  
+}
+header{
+  border: 8px solid red;
+  text-align: center;
+  background-color: black;
+  
+ 
+}
+div{
+  border: 12px solid black;
+  margin-left: 200px;
+  margin-right:200px;
+    
+  background-color: teal;
+ 
+    
+  }
+}
+section{
+ padding: 50px;
+  margin-right: 50px;
+  background-color: black;
+}
+footer{
+padding: 20px;
+  margin: 20px;
+  text-align: center;
+  border: 40px solid black;
+  background: teal;
+  color: yellow;
+}
